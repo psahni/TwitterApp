@@ -4,3 +4,7 @@
   * rails 3.0.7
   * ruby 1.9.2
  
+* Resources
+  * https://github.com/intridea/omniauth.git
+  * http://railscasts.com/episodes/235-omniauth-part-1
+  * http://railscasts.com/episodes/236-omniauth-part-2
